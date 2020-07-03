@@ -1,2 +1,2 @@
 # techno
-all about some tech knowlegde
+Everything about some technologies that I know, use and learn ...
